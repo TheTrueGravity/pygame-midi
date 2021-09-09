@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@types/node": "^16.9.0"
+  },
+  "name": "pygame-midi",
+  "description": "A node js interface for pygame's midi module!",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "tsc && node build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTrueGravity/pygame-midi.git"
+  },
+  "keywords": [
+    "pygame",
+    "midi",
+    "python",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "TheTrueGravity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheTrueGravity/pygame-midi/issues"
+  },
+  "homepage": "https://github.com/TheTrueGravity/pygame-midi#readme"
+}
